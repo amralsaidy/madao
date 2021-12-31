@@ -1,0 +1,15 @@
+{
+  "development": {
+    "cdnUrl": "",
+    "proxyUrl": "/proxy/",
+    "baseUrl": "https://api.madaoo.com/",
+    "socketHost": "https://socket.madaoo.com"
+  },
+
+  "production": {
+    "cdnUrl": "",
+    "proxyUrl": "https://madaoo.com/proxy/",
+    "baseUrl": "https://api.madaoo.com/",
+    "socketHost": "https://socket.madaoo.com"
+  }
+}
